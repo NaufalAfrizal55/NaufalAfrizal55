@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&height=120&pause=500&color=2196F3&center=true&vCenter=true&multiline=true&width=850&lines=Electrical+Engineering+Fresh+Graduate;Power+Systems%2C+Power+Electronics%2C;and+Electrical+Design+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&height=120&duration=1000&pause=2000&color=2196F3&center=true&vCenter=true&multiline=true&width=850&lines=Electrical+Engineering+Fresh+Graduate;Power+Systems%2C+Power+Electronics%2C;and+Electrical+Design+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
