@@ -22,16 +22,16 @@
 
 ## ⚡ Portfolio & Projects
 
-### 🔌 Power Electronics & Control Systems
+<!-- ### 🔌 Power Electronics & Control Systems
 - **[Bidirectional DC-DC Converter for V2H](link-ke-repo-1)** - Conducted real-time Hardware-in-the-Loop (HIL) simulations using PLECS RT Box to validate power electronics control strategies.
-- **[Dual Active Bridge (DAB) Converter Control](link-ke-repo-2)** - Analyzed and implemented DAB converter algorithms on an STM32 microcontroller to optimize efficient power flow.
+- **[Dual Active Bridge (DAB) Converter Control](link-ke-repo-2)** - Analyzed and implemented DAB converter algorithms on an STM32 microcontroller to optimize efficient power flow. -->
 
 ### 🏭 Power Systems & Industrial Automation
 - **[Factory Power Distribution & Protection System](link-ke-repo-3)** - Designed a comprehensive substation Single Line Diagram (SLD) and electrical protection scheme using ETAP/Power Factory (DigSilent).
 - **[PLC-Based Automated Air Heater System](link-ke-repo-4)** - Programmed automated sequential control logic utilizing a Schneider M221 PLC and Modbus TCP/RTU protocols.
 
-### 💻 Embedded Systems & IoT
-- **[IoT-Based Smart Waste Monitoring System](link-ke-repo-5)** - Engineered an embedded hardware system utilizing an STM32 microcontroller to track waste bin capacity in real-time.
+<!-- ### 💻 Embedded Systems & IoT
+- **[IoT-Based Smart Waste Monitoring System](link-ke-repo-5)** - Engineered an embedded hardware system utilizing an STM32 microcontroller to track waste bin capacity in real-time. -->
 
 <!-- ## ⚡ Portfolio & Projects
 
